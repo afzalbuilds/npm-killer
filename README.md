@@ -179,14 +179,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-## Related Tools
-
-- [`kill-port`](https://www.npmjs.com/package/kill-port) — Simple port killer
-- [`fkill-cli`](https://github.com/sindresorhus/fkill-cli) — Cross-platform process killer
-- [`lsof`](https://man7.org/linux/man-pages/man8/lsof.8.html) — List open files (system tool)
-
----
-
 **Made with ❤️ for developers who hate port conflicts.**
 
 *Star this repo if it saved you time!* ⭐
