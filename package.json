@@ -1,6 +1,6 @@
 {
   "name": "npm-killer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Interactive CLI tool to kill Node.js processes on ports",
   "main": "bin/index.js",
   "bin": {
@@ -20,8 +20,19 @@
     "process",
     "interactive"
   ],
-  "author": "",
+  "author": {
+    "name": "Muhammad Afzal",
+    "url": "https://github.com/afzalbuilds"
+  },
   "license": "MIT",
+  "homepage": "https://github.com/afzalbuilds/npm-killer#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afzalbuilds/npm-killer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/afzalbuilds/npm-killer/issues"
+  },
   "dependencies": {
     "commander": "^12.0.0",
     "chalk": "^5.3.0",
