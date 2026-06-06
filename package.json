@@ -1,6 +1,6 @@
 {
   "name": "npm-killer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interactive CLI tool to kill Node.js processes on ports",
   "main": "bin/index.js",
   "bin": {
